@@ -1,0 +1,4 @@
+Airplanes:
+ - Learn/Learn: 200 slik
+ - Learn/Tune: 200 slik
+ - Test: 400 slik

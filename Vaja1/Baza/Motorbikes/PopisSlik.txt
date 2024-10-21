@@ -1,0 +1,4 @@
+Motorbikes:
+ - Learn/Learn: 200 slik
+ - Learn/Tune: 199 slik
+ - Test: 399 slik
