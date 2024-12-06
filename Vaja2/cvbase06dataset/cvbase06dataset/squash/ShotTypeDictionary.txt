@@ -1,0 +1,26 @@
+Number	Mark	Meaning
+1	S	serve
+2	LL	long line
+3	C	cross
+4	CS	cross short
+5	DL	drop line
+6	DC	drop cross
+7	LOL	lob line
+8	LOC	lob cross
+9	KL	kill line
+10	KC	kill cross
+11	VLL	volley line
+12	VC	volley cross
+13	VCS	volley cross short
+14	VDL	volley drop line
+15	VDC	volley drop cross
+16	VBN	volley boast offensive
+17	VBO	volley boast defensive
+18	VBR	volley boast reverse
+19	VKL	volley kill line
+20	VKC	volley kill cross
+21	BN	boast offensive
+22	BO	boast defensive
+23	BR	boast reverse
+24	BS	boast skid
+25	COS	unknown (very very rare)

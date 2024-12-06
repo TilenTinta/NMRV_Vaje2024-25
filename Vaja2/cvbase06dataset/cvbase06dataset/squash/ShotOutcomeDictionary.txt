@@ -1,0 +1,6 @@
+Number	Mark	Meaning
+1	i	play goes on
+2	l	let
+3	s	stroke
+4	t	point
+5	n	error

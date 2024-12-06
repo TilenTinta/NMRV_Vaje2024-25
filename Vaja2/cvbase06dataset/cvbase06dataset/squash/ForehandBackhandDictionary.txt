@@ -1,0 +1,3 @@
+Number	Mark	Meaning
+1	f	forehand
+2	b	backhand

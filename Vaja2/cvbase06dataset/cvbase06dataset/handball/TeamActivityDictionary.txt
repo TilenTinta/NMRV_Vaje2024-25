@@ -1,0 +1,13 @@
+Number	Mark	Meaning
+1	ovpp	defense, returning, preventing fast break
+2	ovpc	defense, slowly returning
+3	obg	defense, basic defense, defense against preparation of an offense
+4	obz	defense, basic defense, defense against ending offense
+5	t	break or time-out
+6	nki	offense, fast break (individual offense)
+7	nks	offense, fast break (group offense)
+8	nfpn	offense against set-up defense, setting up an offense
+9	nfan	offense against set-up defense, ending an offense
+10	npp	offense, slowly going into offense
+
+

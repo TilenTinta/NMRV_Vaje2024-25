@@ -1,0 +1,28 @@
+Number	Mark	Meaning
+1	n1	offense, shot from the back positions
+2	n2	offense, shot from the wing positions
+3	n3	offense, shot from the fast break (counter-offense)
+4	n4	offense, solo offense (dribbling...)
+5	n5	offense, penalty shot
+6	n6	offense, assistance
+7	n7	offense, player has forced an error of the other team
+8	n8	offense, ball lost
+9	n10	offense, charging towards the goal
+10	n11	offense, getting open
+11	n12	offense, falling, getting up
+12	n13	offense, jumps
+13	n14	offense, passing the ball
+14	o1	defense, ball acquired, intercepted, blocked
+15	o2	defense, player has forced an error of the other team
+16	o3	defense, other team has scored a goal
+17	o4	defense, caused penalty shot
+18	o5	defense, foul (expulsion)
+19	o6	defense, motion in defense
+20	o7	defense, stopping the opponent
+21	o8	defense, falling, getting up
+22	v1	unknown
+23	v2	unknown
+24	v3	unknown
+25	v4	unknown
+26	v5	unknown
+27	v6	unknown

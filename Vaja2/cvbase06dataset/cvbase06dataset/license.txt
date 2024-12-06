@@ -1,0 +1,60 @@
+CVBASE '06 Dataset License
+
+Please read the following paragraphs carefully. We tried to phrase the
+licence in the way that would give the researchers maximum freedom of
+work and publication. Basically, we do not want unauthorized
+modifications of the dataset and we do not want dataset to be used in
+scientific fields for which it was not intended.
+
+Download and use of CVBASE 06 Dataset are allowed under the following
+circumstances:
+
+    * The dataset is copyrighted by University of Ljubljana and the
+authors: Janez Perš, Marta Bon and Goran Vuckovic.
+    * Permission is granted for use of this dataset in research and
+development in the fields of computer vision, artificial intelligence,
+pattern recognition and related scientific disciplines.
+    * Permission is granted for use of the portions of this dataset as
+an illustration of the experimental data in any form of scientific
+publication, including, but not limited to conference proceedings,
+journal papers, research reports, posters and similar. That means, for
+example, that you may use images, trajectory data and annotations from
+the dataset in your publications without any copyright restrictions or
+special permissions from dataset authors. This permission is not
+restricted to CVBASE 06 papers!
+    * Permission is granted to use of the portions of this dataset as
+an illustration of the experimental data in any form of oral
+presentation, related to the above mentioned scientific fields,
+including but not limited to conference talks, project presentations,
+tutorials, classroom talks and similar. That means, for example, that
+you can use images, videos, trajectory data and annotations from the
+dataset in your conference presentations without any copyright
+restrictions or special permissions from dataset authors. This
+permission is not restricted to CVBASE 06 papers!
+    * Use of this dataset for exclusively sport related research is
+NOT permitted. That means, you may not use the trajectory data from
+this dataset and publish a scientific paper on player motion in squash
+or handball. Similarly, you may not use the annotation data to publis
+a scientific paper on the player and team activity in handball or
+squash.
+    * Dataset may be freely distributed, as long as it remains in its
+original, unmodified form. If you are in doubt about dataset
+integrity, retrieve the original data from the internet addres:
+http://vision.fe.uni-lj.si/cvbase06/dataset.html.
+    * Distribution of modified versions of this dataset is explicitly
+forbidden.
+    * You agree that authors bear no responsibility for errors,
+mistakes, faults, missing data, innacuracies in trajectories or errors
+in annotations or any other problems that may arise with the dataset.
+In no event you will hold dataset authors responsible or liable for
+any problem with the dataset.
+    * If you are in doubt about any of the above permissions or
+restrictions, or if you don't know how to apply this license to the
+your field of work, contact the dataset authors at: 
+janez.pers@fe.uni-lj.si
+    * Credits for the experimental data, obtained from this dataset
+are greatly appreciated. If you decide for citation, please use the
+following credits: Janez Pers, Marta Bon, Goran Vuckovic: CVBASE 06
+Dataset, available online:
+http://vision.fe.uni-lj.si/cvbase06/dataset.html
+
